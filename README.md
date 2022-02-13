@@ -23,14 +23,14 @@ iii. Double click on Setup.exe file.
  
 2.	Click “Ok”
 
-
-![image](https://user-images.githubusercontent.com/61733487/153757523-6fd02ddc-deaf-4a13-9074-973d03474c66.png)
-
-
-3.	Click the button that looks like a desktop.
 ![image](https://user-images.githubusercontent.com/61733487/153757508-7bbbe196-97c4-4fb3-b60f-7203f5004326.png)
 
 
+
+3.	Click the button that looks like a desktop.
+
+
+![image](https://user-images.githubusercontent.com/61733487/153757523-6fd02ddc-deaf-4a13-9074-973d03474c66.png)
 
 
 
