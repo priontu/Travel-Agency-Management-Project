@@ -22,7 +22,11 @@ iii. Double click on Setup.exe file.
 
  
 2.	Click “Ok”
-3.	Click the button shown by the arrow.
+![image](https://user-images.githubusercontent.com/61733487/153757523-6fd02ddc-deaf-4a13-9074-973d03474c66.png)
+
+
+3.	Click the button that looks like a desktop.
+![image](https://user-images.githubusercontent.com/61733487/153757508-7bbbe196-97c4-4fb3-b60f-7203f5004326.png)
 
 
 
@@ -36,6 +40,8 @@ iii. Double click on Setup.exe file.
 4.	Click “Continue”.
 
 
+![image](https://user-images.githubusercontent.com/61733487/153757553-56cfd707-2991-4f5d-ac49-37786b0d8c6b.png)
+
 
 
 
@@ -47,16 +53,19 @@ iii. Double click on Setup.exe file.
 
 5.	A progress bar is shown
 
+![image](https://user-images.githubusercontent.com/61733487/153757560-00f91d47-6757-4b7c-8e66-603b76a65d7c.png)
 
  
 6.	The installation is finished when the message shown below appears.
 
+![image](https://user-images.githubusercontent.com/61733487/153757567-04f241ed-4f79-486b-931b-8e4941a87423.png)
 
 
 
 
 
 7.	Starting the system
+
 The Log-in form appears when the following icon is clicked from the desktop window. The access to Main Menu form can only be gained if the correct User type, User ID and Password are provided.
  
 The system basically has two parts. A part that is designed to interact with us and the other part is used to store the data we provide to the system and allow the computer system to make calculations and monitor the things happening. The part that was made to interact with the user is designed using Visual Basic 6.0 and the other part is made using Ms Access. Programming techniques have been used to link the two parts to function efficiently i.e. a connection has been set up between the database and the data environment of Visual Basic 6.0.
@@ -66,6 +75,7 @@ Logging into the system
 2.	Click Log-in
 3.	When the button is pressed, the Main Menu form will appear.
 
+![image](https://user-images.githubusercontent.com/61733487/153757858-0df93223-b9d5-40d2-bd26-b5ea02e96b77.png)
 
 
 
@@ -77,7 +87,9 @@ Adding a new User to the system
 5.	A message will appear that the account has been created successfully. 
 6.	Click “Ok”
 
+![image](https://user-images.githubusercontent.com/61733487/153757942-92ab6cdc-e06a-4ceb-bb30-ee701d121ea5.png)
 
+![image](https://user-images.githubusercontent.com/61733487/153757947-6250f4ec-e116-450d-ae65-84dc95a63ff4.png)
 
 
 
@@ -91,8 +103,10 @@ Changing the Password of an existing User
 6.	Click “Update”.
 7.	Confirmation message shown on successful update of data.
 8.	Click “Ok”.
+![image](https://user-images.githubusercontent.com/61733487/153757968-be7dbbe6-e132-4637-a2cb-49825d77f547.png)
 
 
+![image](https://user-images.githubusercontent.com/61733487/153757967-05d91d25-e7e6-4fc0-97e8-8b38bea1331a.png)
 
 
 
@@ -106,7 +120,11 @@ Deleting an existing User Account
 5.	A confirmation message will appear for the deletion of account.
 6.	Click “Ok”.
 
- 
+ ![image](https://user-images.githubusercontent.com/61733487/153757997-b5dce5ed-8e65-4151-b33a-d7c4eaa73ba3.png)
+
+![image](https://user-images.githubusercontent.com/61733487/153758007-b3dda83d-ce88-416b-8ff9-81d2c9882cb4.png)
+
+
 Adding a new Employee record 
 1.	Select “Employee Entry” form from “Employee information” section of the Main Menu.
 2.	Enter all the Employee information.
@@ -114,6 +132,7 @@ Adding a new Employee record
 4.	Confirmation message appears for the successful addition of data.
 5.	Click “Ok”.
 
+![image](https://user-images.githubusercontent.com/61733487/153758018-cfcc8a4b-df94-47e2-8e93-b127fbd050e9.png)
 
 
  
@@ -124,6 +143,7 @@ Updating an existing Employee record
 4.	Click “Update”.
 5.	Confirmation message appears on successful update. Click “Ok”.
 
+![image](https://user-images.githubusercontent.com/61733487/153758032-2d7f68c3-9056-4fc0-8357-c307a774026a.png)
 
 
 
@@ -152,6 +172,7 @@ Adding a new Package
 4.	Confirmation message appears on successful addition of the record.
 5.	Click “Ok”.
 
+![image](https://user-images.githubusercontent.com/61733487/153758046-d4b850f1-41ea-4ac8-8b98-55a3d1ed5939.png)
 
 
 
@@ -187,6 +208,7 @@ Updating a Package
 9.	Click “Ok”
 
 
+![image](https://user-images.githubusercontent.com/61733487/153758052-08690335-a43b-4359-9a30-418e49d6264d.png)
 
 
 
@@ -211,7 +233,11 @@ Deleting a Package
 6.	Confirmation message appears on successful deletion of the record.
 7.	Click “Ok”.
 
- 
+ ![image](https://user-images.githubusercontent.com/61733487/153758077-5336d538-e60a-439e-a78c-be03651780c3.png)
+
+ ![image](https://user-images.githubusercontent.com/61733487/153758089-6fedf834-ab6f-460a-a64b-57ae04303e0d.png)
+
+ 
 Booking a Package
 1.	Select “Package Booking” form from the “Package information” section Main Menu form.
 2.	Select a Package type. List of Package names is loaded. Select a Package name.
@@ -221,6 +247,7 @@ Booking a Package
 6.	Confirmation message appears on successful booking made.
 7.	Click “Ok”.
 
+![image](https://user-images.githubusercontent.com/61733487/153758094-ae44c38d-9c37-475d-995c-8440911f46d3.png)
 
 
 
@@ -246,6 +273,11 @@ Updating a Package
 6.	Confirmation message appears on successful update of record.
 7.	Click “Ok”.
  
+ 
+ ![image](https://user-images.githubusercontent.com/61733487/153758480-0332ed9d-9265-469b-847e-40a1cda0f46f.png)
+
+ 
+ 
 Deleting a Booking record
 1.	Select “Package Booking Update” form from the “Package information” section of the Main Menu.
 2.	Provide Booking ID of the record to be deleted.
@@ -256,6 +288,7 @@ Deleting a Booking record
 7.	Click “Ok”.
 
 
+![image](https://user-images.githubusercontent.com/61733487/153758186-2aab9196-1d8d-4b89-bba8-d988ed8b3187.png)
 
 
 
@@ -284,6 +317,9 @@ Recording Package Expenses information
 8.	Confirmation message appears for successful saving of data.
 9.	Click “Ok”
  
+ ![image](https://user-images.githubusercontent.com/61733487/153758502-debb9382-95ae-4ffa-a1e4-94f8b9793df4.png)
+
+ 
 Adding a record for the information of a new Vehicle
 1.	Select “Vehicle Entry” form from the “Vehicle information” section of the Main Menu.
 2.	A Vehicle ID is generated.
@@ -293,6 +329,7 @@ Adding a record for the information of a new Vehicle
 6.	Click “Ok”.
 
 
+![image](https://user-images.githubusercontent.com/61733487/153758521-bed288f3-b8ae-4dbb-b734-2881986ebd5e.png)
 
 
 
@@ -307,6 +344,9 @@ Updating the information of a record of a Vehicle
 6.	Click “Ok”.
 
  
+ ![image](https://user-images.githubusercontent.com/61733487/153758534-a1132c0b-2526-410d-b0b3-c6e0e12a51c5.png)
+
+ 
 Deleting a record of information on a Vehicle
 1.	Select “Vehicle Update” form from the “Vehicle information” section of the Main Menu form.
 2.	Select the Vehicle ID of the record to be deleted from the Vehicle ID list.
@@ -315,6 +355,7 @@ Deleting a record of information on a Vehicle
 5.	Click “Ok”.
 
 
+![image](https://user-images.githubusercontent.com/61733487/153758552-98e5d6e8-444c-4fd9-8530-c772f382353d.png)
 
 
 
@@ -365,7 +406,9 @@ Updating information of an existing booking
 7.	Click “Ok”.
 
 
+![image](https://user-images.githubusercontent.com/61733487/153758562-ee7af7df-4551-44a8-90a0-ec0a6fd9bb4a.png)
 
+![image](https://user-images.githubusercontent.com/61733487/153758568-a6a0e38b-2f76-4024-834a-29b856522ff2.png)
 
 
 
@@ -386,6 +429,8 @@ Updating information of an existing booking
 4.	Confirmation message appears on successful deletion.
 5.	Click “Ok”.
 
+![image](https://user-images.githubusercontent.com/61733487/153758579-ebc07dc5-d793-4005-8544-9094b3b15c7e.png)
+
  
 Billing a Vehicle Rental
 1.	Select the “Vehicle Billing” form from the “Vehicle information” section of the Main Menu form.
@@ -397,7 +442,10 @@ Billing a Vehicle Rental
 7.	Click “Print” button.
 8.	Click “Refresh” button.
 		
- 
+ ![image](https://user-images.githubusercontent.com/61733487/153758598-5c62a685-a0ee-47d1-993a-9f66c7c6b0ce.png)
+
+ 
+ 
 Addition of Fuel Record data
 1.	Select “Fuel Record” form from the “Vehicle information” section of the Main Menu form.
 2.	Enter Vehicle ID, Fuel type, Quantity and Amount.
@@ -425,7 +473,9 @@ Recording data on servicing of the Vehicles
 6.	The record is added to the table and the textboxes are emptied.
 
  
+![image](https://user-images.githubusercontent.com/61733487/153758614-3dfc415e-c7c3-44cf-9181-39d96858312a.png)
 
+![image](https://user-images.githubusercontent.com/61733487/153758606-21a8413c-d7e3-4403-834a-ffa393342f3f.png)
 
 
 
@@ -454,7 +504,9 @@ Generating Reports
 2.	The report is generated.
 
 
+![image](https://user-images.githubusercontent.com/61733487/153758641-43c7f684-1c12-44b1-a050-4666b82261f5.png)
 
+![image](https://user-images.githubusercontent.com/61733487/153758652-b01adc5f-64d2-46ad-bfc7-a32b0e181b41.png)
 
 
 
@@ -467,15 +519,26 @@ Printing Reports
 1.	Select the report to be printed from the “Reports “section of the Main Menu form.
 2.	Click on the button highlighted below.
 
+![image](https://user-images.githubusercontent.com/61733487/153758632-a3e43f0c-5e2a-4dfa-b734-3790d92a3429.png)
 
 
 
 3.	/	The following window appears. Enter number of pages that need to be printed.
 	
 
+![image](https://user-images.githubusercontent.com/61733487/153758663-47a1f2c5-b4ce-4ce3-a54a-b521097b91c9.png)
 
 
 4.	Click “Ok” to print the report.
+
+![image](https://user-images.githubusercontent.com/61733487/153758692-9d73eaa9-4d77-447f-b93b-a56db0e05480.png)
+
+![image](https://user-images.githubusercontent.com/61733487/153758686-eebcb5e8-4c7f-4146-ae8c-f07a3411b628.png)
+
+![image](https://user-images.githubusercontent.com/61733487/153758700-91dd1fe4-7b1c-43b4-847b-b54b8b1b2b7c.png)
+
+![image](https://user-images.githubusercontent.com/61733487/153758717-2b752dda-8767-4ca7-82f7-6794a06184d9.png)
+
 
 
 
@@ -512,16 +575,9 @@ The data can also be encrypted so that no one can read the data even at gaining 
 	On-screen help examples
 Throughout the system, on-screen help is available. Whenever the mouse pointer hovers over a control, a message appears notifying the user of the function of the control.
 
+![image](https://user-images.githubusercontent.com/61733487/153759206-eb76709a-d515-4f55-aa8a-81fe072af006.png)
 
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/61733487/153759215-78e8667d-51a5-406d-a8cb-390c8258e087.png)
 
 
 
