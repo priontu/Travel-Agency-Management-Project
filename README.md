@@ -60,6 +60,8 @@ iii. Double click on Setup.exe file.
  
 6.	The installation is finished when the message shown below appears.
 
+
+
 ![image](https://user-images.githubusercontent.com/61733487/153757567-04f241ed-4f79-486b-931b-8e4941a87423.png)
 
 
@@ -77,6 +79,8 @@ Logging into the system
 2.	Click Log-in
 3.	When the button is pressed, the Main Menu form will appear.
 
+
+
 ![image](https://user-images.githubusercontent.com/61733487/153757858-0df93223-b9d5-40d2-bd26-b5ea02e96b77.png)
 
 
@@ -88,6 +92,8 @@ Adding a new User to the system
 4.	Click “Create Account” button.
 5.	A message will appear that the account has been created successfully. 
 6.	Click “Ok”
+
+
 
 ![image](https://user-images.githubusercontent.com/61733487/153757942-92ab6cdc-e06a-4ceb-bb30-ee701d121ea5.png)
 
@@ -105,6 +111,9 @@ Changing the Password of an existing User
 6.	Click “Update”.
 7.	Confirmation message shown on successful update of data.
 8.	Click “Ok”.
+
+
+
 ![image](https://user-images.githubusercontent.com/61733487/153757968-be7dbbe6-e132-4637-a2cb-49825d77f547.png)
 
 
@@ -122,6 +131,8 @@ Deleting an existing User Account
 5.	A confirmation message will appear for the deletion of account.
 6.	Click “Ok”.
 
+
+
  ![image](https://user-images.githubusercontent.com/61733487/153757997-b5dce5ed-8e65-4151-b33a-d7c4eaa73ba3.png)
 
 ![image](https://user-images.githubusercontent.com/61733487/153758007-b3dda83d-ce88-416b-8ff9-81d2c9882cb4.png)
@@ -134,6 +145,8 @@ Adding a new Employee record
 4.	Confirmation message appears for the successful addition of data.
 5.	Click “Ok”.
 
+
+
 ![image](https://user-images.githubusercontent.com/61733487/153758018-cfcc8a4b-df94-47e2-8e93-b127fbd050e9.png)
 
 
@@ -144,6 +157,8 @@ Updating an existing Employee record
 3.	Make changes to the information.
 4.	Click “Update”.
 5.	Confirmation message appears on successful update. Click “Ok”.
+
+
 
 ![image](https://user-images.githubusercontent.com/61733487/153758032-2d7f68c3-9056-4fc0-8357-c307a774026a.png)
 
@@ -173,6 +188,9 @@ Adding a new Package
 3.	Click “Save”.
 4.	Confirmation message appears on successful addition of the record.
 5.	Click “Ok”.
+
+
+
 
 ![image](https://user-images.githubusercontent.com/61733487/153758046-d4b850f1-41ea-4ac8-8b98-55a3d1ed5939.png)
 
@@ -210,6 +228,8 @@ Updating a Package
 9.	Click “Ok”
 
 
+
+
 ![image](https://user-images.githubusercontent.com/61733487/153758052-08690335-a43b-4359-9a30-418e49d6264d.png)
 
 
@@ -235,6 +255,9 @@ Deleting a Package
 6.	Confirmation message appears on successful deletion of the record.
 7.	Click “Ok”.
 
+
+
+
  ![image](https://user-images.githubusercontent.com/61733487/153758077-5336d538-e60a-439e-a78c-be03651780c3.png)
 
  ![image](https://user-images.githubusercontent.com/61733487/153758089-6fedf834-ab6f-460a-a64b-57ae04303e0d.png)
@@ -248,6 +271,9 @@ Booking a Package
 5.	Click “Confirm” button.
 6.	Confirmation message appears on successful booking made.
 7.	Click “Ok”.
+
+
+
 
 ![image](https://user-images.githubusercontent.com/61733487/153758094-ae44c38d-9c37-475d-995c-8440911f46d3.png)
 
@@ -276,6 +302,7 @@ Updating a Package
 7.	Click “Ok”.
  
  
+ 
  ![image](https://user-images.githubusercontent.com/61733487/153758480-0332ed9d-9265-469b-847e-40a1cda0f46f.png)
 
  
@@ -288,6 +315,8 @@ Deleting a Booking record
 5.	Click “Delete” button.
 6.	Confirmation message appears on successful deletion of record.
 7.	Click “Ok”.
+
+
 
 
 ![image](https://user-images.githubusercontent.com/61733487/153758186-2aab9196-1d8d-4b89-bba8-d988ed8b3187.png)
@@ -319,6 +348,8 @@ Recording Package Expenses information
 8.	Confirmation message appears for successful saving of data.
 9.	Click “Ok”
  
+ 
+ 
  ![image](https://user-images.githubusercontent.com/61733487/153758502-debb9382-95ae-4ffa-a1e4-94f8b9793df4.png)
 
  
@@ -329,6 +360,8 @@ Adding a record for the information of a new Vehicle
 4.	Press “Submit” button
 5.	Confirmation message appears on addition of record to the database.
 6.	Click “Ok”.
+
+
 
 
 ![image](https://user-images.githubusercontent.com/61733487/153758521-bed288f3-b8ae-4dbb-b734-2881986ebd5e.png)
@@ -345,6 +378,9 @@ Updating the information of a record of a Vehicle
 5.	Confirmation message appears on successful update.
 6.	Click “Ok”.
 
+
+
+
  
  ![image](https://user-images.githubusercontent.com/61733487/153758534-a1132c0b-2526-410d-b0b3-c6e0e12a51c5.png)
 
@@ -355,6 +391,9 @@ Deleting a record of information on a Vehicle
 3.	Click Delete.
 4.	Confirmation message appears on successful deletion of the record.
 5.	Click “Ok”.
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/61733487/153758552-98e5d6e8-444c-4fd9-8530-c772f382353d.png)
@@ -385,6 +424,7 @@ Booking a Vehicle
 
 
 
+![image](https://user-images.githubusercontent.com/61733487/153759556-867e2fd1-ec8a-4414-9bc2-b4b46fdaa853.png)
 
 
 
