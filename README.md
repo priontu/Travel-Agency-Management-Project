@@ -22,6 +22,8 @@ iii. Double click on Setup.exe file.
 
  
 2.	Click “Ok”
+
+
 ![image](https://user-images.githubusercontent.com/61733487/153757523-6fd02ddc-deaf-4a13-9074-973d03474c66.png)
 
 
